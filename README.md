@@ -1,4 +1,4 @@
 # project
 
-# Malware Detection using Machine Learning
+# Malware Detection using Machine Learning
 8the Semester Project
